@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<math.h>
-int main()
+int main(void)
 {
 float a,b,c;
 int A;
@@ -31,6 +31,6 @@ break;
 
 }
 
-
 return 0;
 }
+printf("\n calculations Completed Thanks for using me");
